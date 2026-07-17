@@ -1,5 +1,8 @@
 <div align="center">
-
+<p align="center">
+  <img src="https://i.pinimg.com/736x/01/ac/5b/01ac5b864a6c29efb24c1145aeb9c7be.jpg" width="120" style="border-radius:50%;" alt="Noran Ahmed"/>
+</p>
+  
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=f70776&center=true&vCenter=true&width=650&lines=Hello!+I'm+Noran+%F0%9F%91%8B;Computer+%26+Systems+Engineering+Student;Cybersecurity+Enthusiast" alt="Typing SVG"/>
 </p>
