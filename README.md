@@ -1,10 +1,8 @@
 <div align="center">
 
-# Hi, I'm Noran Ahmed 👋
-
-### Computer & Systems Engineering Student @ Helwan University | Cybersecurity Enthusiast
-
-<p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=1F6FEB&center=true&vCenter=true&width=650&lines=Hello!+I'm+Noran+%F0%9F%91%8B;Computer+%26+Systems+Engineering+Student;Cybersecurity+Enthusiast" alt="Typing SVG"/>
+</p>
 <a href="https://www.linkedin.com/in/noran-ahmed-02a936300">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
