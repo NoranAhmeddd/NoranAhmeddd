@@ -9,17 +9,14 @@
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 &nbsp;
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/NoranAhmeddd">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:noranahmed941@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 </p>
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&label=Profile+Views)
-
 </div>
 
 ---
